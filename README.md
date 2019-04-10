@@ -29,4 +29,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+<br />
+
 [![Build Status](https://ferdinandf.visualstudio.com/Contoso/_apis/build/status/Contoso-Go%20(preview)-CI?branchName=master)](https://ferdinandf.visualstudio.com/Contoso/_build/latest?definitionId=1&branchName=master)
